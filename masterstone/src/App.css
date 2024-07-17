@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+.char {
+  flex: 1;
+  border: red 1px solid; 
+  height: 100%;
+}
+.map {
+  flex: 3;
+  border: red 1px solid; 
+  height: 100%;
+}

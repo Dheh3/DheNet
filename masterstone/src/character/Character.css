@@ -1,0 +1,35 @@
+.char {
+    max-width: 20vw;
+    border-radius: 25%;
+    *{
+        border-radius: 25%;
+    }
+    .list {
+        background: gray;
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+
+        .ul {
+
+            list-style-type: none;
+            padding: 10px 10px;
+
+            li {
+                height: 100%;
+                border-radius: 25px;
+                border: blue 1px solid;
+                margin-bottom: 10px;
+                background: rgb(85, 85, 85);
+
+            }
+
+            li:last-child {
+                margin-bottom: 0;
+            }
+        }
+
+    }
+}
