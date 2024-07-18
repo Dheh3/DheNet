@@ -1,8 +1,8 @@
 .char {
     max-width: 20vw;
-    border-radius: 25%;
+    border-radius: 25px;
     *{
-        border-radius: 25%;
+        border-radius: 25px;
     }
     .list {
         background: gray;
@@ -20,7 +20,7 @@
             li {
                 height: 100%;
                 border-radius: 25px;
-                border: blue 1px solid;
+                border: black 1px solid;
                 margin-bottom: 10px;
                 background: rgb(85, 85, 85);
 

@@ -7,7 +7,6 @@ const Map: any = () => {
                 <img src="https://placehold.co/500"/>
             </div>
         </>
-
     )
 }
 export default Map
