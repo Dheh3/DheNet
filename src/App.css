@@ -16,7 +16,7 @@
 }
 
 .char {
-  flex: 1;
+  flex: 2;
   border: red 1px solid; 
   height: 100%;
 }
